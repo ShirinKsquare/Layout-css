@@ -1,0 +1,130 @@
+
+
+#container{
+  width=100%;
+  margin:10%;
+  border: 5px solid red;
+  background-color: grey;
+  height: auto;
+}
+.NavPart {
+  width:100%;
+  border: 2px solid green;
+
+}
+
+.NavPart .I{
+width:20%;
+height:auto;
+border: 2px double green;
+padding: 5px;
+margin:2px;
+float:left;
+display:inline;
+}
+
+.NavPart .II{
+width:20%;
+height:auto;
+border: 2px double green;
+padding: 20px;
+margin:2px;
+float:left;
+display:inline;
+}
+
+.NavPart .III{
+width:20%;
+border: 2px double green;
+padding: 20px;
+margin:2px;
+float:left;;
+display:inline;
+}
+
+.NavPart .IV{
+width:20%;
+border: 2px solid green;
+padding: 20px;
+margin:2px;
+float:left;
+display:inline;
+}
+
+.Top {
+  clear:both;
+  width:100%;
+  border: 2px solid green;
+
+}
+
+.Top .one{
+  width:10%;
+  border: 2px solid green;
+  padding: 25px;
+  margin:2px;
+  float:left;
+  display:inline;
+  text-align: center;
+  font-weight: bold;
+}
+
+
+.Top .two{
+  width:50%;
+  border: 2px solid green;
+  padding: 25px;
+  margin:1px;
+  float:left;
+  display:inline;
+  text-align: center;
+  font-weight: bold;
+}
+.Top .three{
+/*  box-sizing: border-box;*/
+  width:20%;
+  border: 2px solid green;
+  padding: 25px;
+  margin:1px;
+  float:left;
+  display:inline;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+
+.Bottom{
+  clear:both;
+  width:100%;
+  border: 2px solid green;
+}
+.Bottom nav{
+  margin-left: 40px;
+  width: 10%;
+/*  margin-right: 83%;*/
+border: 2px solid green;
+display: inline-block;
+box-sizing: border-box;
+float:left;
+
+}
+
+
+.Bottom p{
+  border:2px solid green;
+  width:50%;
+  padding: 5px;
+  float:left;
+  margin:1px;
+/*display: inline;*/
+}
+.Bottom img{
+  border: 2px solid green;
+  width:20%
+  float:left;
+  height: 150px;
+  margin: 1px;
+
+}
